@@ -1,0 +1,3 @@
+[console_scripts]
+sensor_communication_node = sensor_communication.sensor_communication_node:main
+
